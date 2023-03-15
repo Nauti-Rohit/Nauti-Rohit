@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nauti-Rohit
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning big data
-- 💞️ I’m looking to collaborate on data visulization
+- 🌱 I’m currently exploring my-self 
+- 💞️ I’m looking to collaborate on exciting projects
 - 📫 To reach me send mail on rohitnautiyal9@gmail.com 
 
 <!---
