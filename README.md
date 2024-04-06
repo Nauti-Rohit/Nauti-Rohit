@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there,+I'm+@Nauti-Rohit;Second+line+of+text)](https://git.io/typing-svg)
+
 👋 Hey there, I'm @Nauti-Rohit
 - 🌱 As a MERN stack developer 
 - To meet specific requirements, efficient, testable code must be created.
