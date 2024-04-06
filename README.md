@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋Hey+there,+I'm+@Nauti-Rohit;🌱As+a+MERN+Stack+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋Hey+there,+I'm+@Nauti-Rohit;🌱As+a+Full+Stack+Developer.)](https://git.io/typing-svg)
 
 - Excellence with Purpose
 - Operational Mastery
