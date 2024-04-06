@@ -8,7 +8,6 @@
 --->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=header"/>
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋Hey+there,+I'm+@Nauti-Rohit;🌱As+a+Full+Stack+Developer.%29)](https://git.io/typing-svg)
 
 ## My Skills:
@@ -23,7 +22,6 @@
 <div> 
 <a href="https://www.linkedin.com/in/nauti-rohit/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer"/>
 
