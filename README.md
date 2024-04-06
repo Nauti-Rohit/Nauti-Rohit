@@ -13,7 +13,7 @@ https://camo.githubusercontent.com/e5b8bafd879c8fb220a5081974e1c1c863a93a06cfc9f
 
 ## My Skills:
 
-![html5](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
+![html5](https://img.shields.io/badge/.html-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
