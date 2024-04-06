@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋Hey+there,+I'm+@Nauti-Rohit;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋Hey+there,+I'm+@Nauti-Rohit;🌱As+a+MERN+Stack+developer.)](https://git.io/typing-svg)
 
 👋 Hey there, I'm @Nauti-Rohit
-- 🌱 As a MERN stack developer 
+- 🌱As a MERN Stack developer 
 - To meet specific requirements, efficient, testable code must be created.
 - Ensure your applications are operationally effective.
 - The ability to collaborate with other team members in the development of robust web solutions.
