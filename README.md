@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋Hey+there,+I'm+@Nauti-Rohit;🌱As+a+MERN+Stack+developer.)](https://git.io/typing-svg)
 
-“Crafting Excellence with Purpose”
-“Operational Mastery: Beyond Functionality”
-“Collaboration: The Symphony of Success”
-“📫 Connect, Innovate, Transform”
+-“Crafting Excellence with Purpose”
+-“Operational Mastery: Beyond Functionality”
+-“Collaboration: The Symphony of Success”
+-“📫 Connect, Innovate, Transform”
 
 
 <!---
