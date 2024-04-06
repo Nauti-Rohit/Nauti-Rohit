@@ -13,10 +13,10 @@
 
 ## My Skills:
 
-![MongoDB](https://img.shields.io/badge/.html5-5C2D91?style=for-the-badge&logo=MongoDB&logoColor=white)&nbsp;
-![Express](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=Express&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=React.js&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=Node.js&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-5C2D91?style=for-the-badge&logo=MongoDB&logoColor=white)&nbsp;
+![Express](https://img.shields.io/badge/Express-239120?style=for-the-badge&logo=Express&logoColor=white)&nbsp;
+![React.js](https://img.shields.io/badge/React.js-00000F?style=for-the-badge&logo=React.js&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-00000F?style=for-the-badge&logo=Node.js&logoColor=white)&nbsp;
 
 ## Contacts:
 
